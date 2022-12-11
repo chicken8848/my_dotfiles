@@ -1,9 +1,2 @@
 # My Dotfiles
-## Requires:
-> sway
->
-> swaybar
->
-> xfce4-terminal
->
-> swaylock
+Requires 'sway', 'swaylock', 'xfce4-terminal'
